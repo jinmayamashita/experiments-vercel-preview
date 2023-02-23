@@ -2,6 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "build": "next build",
     "storybook": "storybook dev -p 6006 --ci",
     "storybook:build": "storybook build"
   },
