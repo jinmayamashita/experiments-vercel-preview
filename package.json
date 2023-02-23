@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "storybook": "storybook dev -p 6006 --ci",
+    "storybook:build": "storybook build"
+  },
+  "dependencies": {
+    "next": "13.1.6"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.2.7",
+    "postcss": "8.4.21",
+    "autoprefixer": "10.4.13",
+    "@storybook/addon-essentials": "7.0.0-beta.53",
+    "@storybook/react": "7.0.0-beta.53",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@storybook/react-vite": "7.0.0-beta.53",
+    "storybook": "7.0.0-beta.53",
+    "typescript": "4.9.5",
+    "vite": "4.1.4"
+  }
+}
